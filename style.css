@@ -1,0 +1,23 @@
+h1{
+    color: white;
+    background-color: black;
+    font-family: monospace;
+}
+
+span{
+    color: rgb(35,255,255);
+}
+
+h2{
+    color: white;
+    background-color: rgb(102,51,153);
+    text-align: center;
+}
+
+h3{
+    color: black;
+    background-color: rgb(159,197,248);
+    text-align: right;
+    text-decoration: underline;
+    font-style: italic;
+}
